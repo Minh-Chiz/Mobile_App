@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\migrations\\20260127025722_addidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\migrations\\20260127025722_addidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\dto\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\dto\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\bookings_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\bookings_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\pcmbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\pcmbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\services\\bookingcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\services\\bookingcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\notifications_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\notifications_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\courts_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\courts_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\tournamentparticipants_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\tournamentparticipants_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\news_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\news_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\transactioncategories_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\transactioncategories_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\wallettransactions_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\wallettransactions_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\members_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\members_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\matches_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\matches_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\tournaments_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\tournaments_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\hubs\\pcmhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\hubs\\pcmhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|d:\\mobile_developer\\code_android\\1771020096-hoang_minh_chi\\backendapi_1771020096_hoangminhchi\\pcmbackend\\migrations\\20260127024116_initialdb_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45B4A6-B3B7-4896-9B4C-9B9564CF930E}|PcmBackend\\PcmBackend.csproj|solutionrelative:pcmbackend\\migrations\\20260127024116_initialdb_096.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260127025722_AddIdentitySchema.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Migrations\\20260127025722_AddIdentitySchema.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Migrations\\20260127025722_AddIdentitySchema.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Migrations\\20260127025722_AddIdentitySchema.cs",
+              "RelativeToolTip": "PcmBackend\\Migrations\\20260127025722_AddIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:57:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\DTO\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\DTO\\AuthDtos.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\DTO\\AuthDtos.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\DTO\\AuthDtos.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:51:43.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Data\\DbSeeder.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "PcmBackend\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:43:39.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PcmBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:52:56.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bookings_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Bookings_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\Bookings_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Bookings_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\Bookings_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:49:07.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingCleanupService.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Services\\BookingCleanupService.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Services\\BookingCleanupService.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Services\\BookingCleanupService.cs",
+              "RelativeToolTip": "PcmBackend\\Services\\BookingCleanupService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:41:19.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Program.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Program.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Program.cs",
+              "RelativeToolTip": "PcmBackend\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwFkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:40:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Courts_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Courts_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\Courts_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Courts_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\Courts_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:48:39.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "PcmBackend\\appsettings.json",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\appsettings.json",
+              "RelativeToolTip": "PcmBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T01:56:13.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PcmBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:52:24.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260127024116_InitialDb_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Migrations\\20260127024116_InitialDb_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Migrations\\20260127024116_InitialDb_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Migrations\\20260127024116_InitialDb_096.cs",
+              "RelativeToolTip": "PcmBackend\\Migrations\\20260127024116_InitialDb_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T02:41:16.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PcmBackend.csproj",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\PcmBackend.csproj",
+              "RelativeDocumentMoniker": "PcmBackend\\PcmBackend.csproj",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\PcmBackend.csproj",
+              "RelativeToolTip": "PcmBackend\\PcmBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T01:35:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PcmBackend\\appsettings.Development.json",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\appsettings.Development.json",
+              "RelativeToolTip": "PcmBackend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T01:56:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TournamentParticipants_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\TournamentParticipants_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\TournamentParticipants_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\TournamentParticipants_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\TournamentParticipants_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:37:48.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Controllers\\TournamentsController.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "PcmBackend\\Controllers\\TournamentsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:42:03.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notifications_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Notifications_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\Notifications_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Notifications_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\Notifications_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:50:15.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "News_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\News_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\News_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\News_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\News_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:50:35.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionCategories_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\TransactionCategories_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\TransactionCategories_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\TransactionCategories_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\TransactionCategories_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:52:09.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WalletTransactions_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\WalletTransactions_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\WalletTransactions_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\WalletTransactions_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\WalletTransactions_096.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:48:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Members_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Members_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\Members_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Members_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\Members_096.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:47:51.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PcmHub.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Hubs\\PcmHub.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Hubs\\PcmHub.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Hubs\\PcmHub.cs",
+              "RelativeToolTip": "PcmBackend\\Hubs\\PcmHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:39:56.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Matches_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Matches_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\Matches_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Matches_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\Matches_096.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA2wBYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:38:11.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tournaments_096.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Tournaments_096.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\Tournaments_096.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Tournaments_096.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\Tournaments_096.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:37:08.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "PcmBackend\\Models\\Enums.cs",
+              "ToolTip": "D:\\Mobile_Developer\\code_android\\1771020096-HOANG_MINH_CHI\\BackendAPI_1771020096_HoangMinhChi\\PcmBackend\\Models\\Enums.cs",
+              "RelativeToolTip": "PcmBackend\\Models\\Enums.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:36:39.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
