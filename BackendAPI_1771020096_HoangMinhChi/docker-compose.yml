@@ -22,9 +22,8 @@
     ports:
       - "8080:8080"
     environment:
-      - ASPNETCORE_ENVIRONMENT=Production
-      # Connection String trỏ vào service 'db' thay vì địa chỉ máy cá nhân
-      - ConnectionStrings__DefaultConnection=Server=db;Database=PcmDb;User Id=sa;Password=YourStrongPassword123!;TrustServerCertificate=True;
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=...
 
 volumes:
   pcm_sql_data:

@@ -1,18 +1,16 @@
-import 'package:flutter/foundation.dart'; // Cần import thư viện này để dùng kIsWeb
+import 'package:flutter/foundation.dart';
 
 class ApiConfig {
-  // Máy ảo Android dùng 10.0.2.2
-  // Web hoặc iOS Simulator dùng localhost
-  // Máy thật dùng IP LAN
+  // IP bạn vừa tìm được: 172.30.112.1
+  // Cổng đã cấu hình trong Docker Compose: 8080
   
   static String get baseUrl {
     if (kIsWeb) {
-      // Nếu đang chạy trên Web -> Dùng localhost
-      return "http://localhost:5186/api"; 
+      // Nếu chạy Web trên cùng máy tính host Docker
+      return "http://localhost:8080/api"; 
     } else {
-      // Nếu chạy trên Android Emulator -> Dùng 10.0.2.2
-      // (Hoặc đổi thành IP LAN nếu bạn test máy thật)
-      return "http://10.0.2.2:5186/api";
+      // Dùng IP LAN để cả máy ảo và máy thật đều truy cập được
+      return "http://172.30.112.1:8080/api";
     }
   }
 }
